@@ -10,7 +10,8 @@
     4. Managing compliance searches and actions
     
 .NOTES
-    Author: Blake White
+    Name:         ExchangeResponder.ps1
+    Author:       Blake White
     Requirements: ExchangeOnlineManagement module v3.9.0+
 #>
 
@@ -88,9 +89,9 @@ function Write-Log {
 function Show-Banner {
     $banner = @"
 
-=======================================
-    Exchange Online DFIR Toolkit    
-=======================================
+======================================
+      [   ExchangeResponder   ]
+======================================
                                                            
   [1] Search and Purge Emails                            
   [2] Hunt Malicious Inbox Rules
