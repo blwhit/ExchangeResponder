@@ -13,7 +13,7 @@ PowerShell-based Blue Team tool for investigating and remediating Business Email
 ## Installation
 
 Clone this repository:
-```powershell
+```
 git clone https://github.com/blwhit/ExchangeResponder.git
 cd ExchangeResponder
 ```
