@@ -1,6 +1,6 @@
 # ExchangeResponder
 
-PowerShell-based Blue Team tool for investigating and remediating Business Email Compromise and email-based threats in Microsoft 365 tenants.Retry
+PowerShell-based Blue Team tool for investigating and remediating Business Email Compromise and email-based threats in Microsoft 365 tenants.
 
 ## Features
 
