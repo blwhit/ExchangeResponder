@@ -17,7 +17,8 @@ Clone this repository:
 git clone https://github.com/blwhit/ExchangeResponder.git
 cd ExchangeResponder
 ```
-###### _The script will automatically prompt to install required modules on first run._
+<sub>*The script will automatically install required modules*</sub>
+
 ## Usage
 
 Run the script:
